@@ -55,6 +55,31 @@ boolan[]       -          [Z
 String[]       -          [L java.lang
 
 
+                                                  Arrays Class 
+
+1. Arrays class belong to java.util package
+2. Arrays class  consist of static method . that makes to easier call without object and call with by the class name.
+3. no need to used complicated loops to work with an Array.
+
+Methods :-
+
+Sort() - 
+binarySearch() -
+toString()-
+asList() -
+equals() - 
+fill() -
+copyOf() -
+
+
+
+
+
+
+
+
+
+
 
 
 
