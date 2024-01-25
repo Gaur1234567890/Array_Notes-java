@@ -1,0 +1,76 @@
+What is Array ?
+Ans -
+1. Array is a collection of simillar type of data element.
+2. Array is a linear Data structure.
+3. Array starts with index 0 and end with size-1.
+4. Arrayy are used to arrange data in sequentially.
+5. Array can store fix sized of elements.
+6. in java , Array is a object.
+
+How to implement java program ?
+Ans -
+1. Array Declaration - (create array Object)
+
+int []arr;
+
+2. Array Creation :- give to size of the array element
+
+int [] arr = new int[5];
+
+3. Array initialization :-
+
+int arr[0]=10;
+int arr[1]=20;
+int arr[2]=30;
+int arr[3]=40;
+int arr[4]=50;
+
+4. Array Traversing :-
+
+visit / perform operation
+
+
+** if you give the element but loop will be execute more than time than generate exception -
+
+ArrayIndexOutOfBoundException
+
+
+AD && AC && AI into one line -
+
+int []arr= {10,20,30,40,50};
+
+** if you want to print the object of array than complier return 
+
+className@<hashvalue>
+
+ArrayType              className    
+int[]          -          [I
+double[]       -          [D
+byte[]         -          [B 
+short[]        -          [S
+long[]         -          [L 
+float[]        -          [F
+char[]         -          [C 
+boolan[]       -          [Z
+String[]       -          [L java.lang
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
